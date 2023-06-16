@@ -4,8 +4,6 @@ Github Repository: https://github.com/Anca-Wang/CC3-Final/tree/main
 
 Video Documentation: https://youtu.be/aNHw6LHkTGQ
 
-All my Files(input/output images, video, code, ReadMe File): https://drive.google.com/file/d/1r38eHuf17vJO-UdMSMMCAGR9YdFMytA1/view?usp=sharing
-
 ## **Inspiration**
 
 This project was inspired by a random thought I had while visiting the Tate museum. I noticed that the stories depicted on the walls were all about men, and I wondered if I could present a history story from a female perspective. That's when the idea of reconstructing matriarchal history with the help of AI and machine learning came to mind.
@@ -68,6 +66,8 @@ Despite encountering challenges related to AI bias and the limitations of existi
 
 File Download Available: 
 [Creative Coding 3 Final.pdf](https://github.com/Anca-Wang/CC3-Final/files/11772259/Creative.Coding.3.Final.pdf)
+
+All my Files(input/output images, video, code, ReadMe File): https://drive.google.com/file/d/1r38eHuf17vJO-UdMSMMCAGR9YdFMytA1/view?usp=sharing
 
 
 
