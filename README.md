@@ -69,7 +69,7 @@ Despite encountering challenges related to AI bias and the limitations of existi
 File Download Available: 
 [Creative Coding 3 Final.pdf](https://github.com/Anca-Wang/CC3-Final/files/11772259/Creative.Coding.3.Final.pdf)
 
-All Files(input/output images + video + code + ReadMe File): https://drive.google.com/file/d/1r38eHuf17vJO-UdMSMMCAGR9YdFMytA1/view?usp=sharing
+Google Drive: https://drive.google.com/file/d/1r38eHuf17vJO-UdMSMMCAGR9YdFMytA1/view?usp=sharing
 
 
 
