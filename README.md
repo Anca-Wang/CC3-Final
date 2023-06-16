@@ -1,7 +1,5 @@
 # Creative Coding 3  |  Style Transfer
 
-# **Matriarchy Society Reconstitution with AI**
-
 Github Repository: https://github.com/Anca-Wang/CC3-Final/tree/main
 
 Video Documentation: https://youtu.be/aNHw6LHkTGQ
