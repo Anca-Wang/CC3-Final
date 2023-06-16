@@ -1,8 +1,3 @@
-# CC3-Final
-
-Download Available: 
-[Creative Coding 3 Final.pdf](https://github.com/Anca-Wang/CC3-Final/files/11772259/Creative.Coding.3.Final.pdf)
-
 # Creative Coding 3  |  Style Transfer
 
 # **Matriarchy Society Reconstitution with AI**
@@ -69,6 +64,11 @@ For image generation, I utilized Midjourney and employed style transfer techniqu
 ## **Conclusion**
 
 Despite encountering challenges related to AI bias and the limitations of existing datasets, I remain steadfast in my commitment to pushing boundaries and envisioning alternative histories. Through the recontextualization of matriarchal societies, we can empower ourselves to shape a future that aligns with our vision of equality and justice.
+
+
+File Download Available: 
+[Creative Coding 3 Final.pdf](https://github.com/Anca-Wang/CC3-Final/files/11772259/Creative.Coding.3.Final.pdf)
+
 
                                                                                                        by Qijing Wang
 
